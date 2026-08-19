@@ -1,2 +1,2 @@
 // >>>>CODE OBFUSCATION WATERMARK<<<<
-alert("</>");
+console.log("</>");
